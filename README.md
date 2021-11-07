@@ -1,1 +1,1 @@
-# pr02-sist-distribuidos
+# PR 02 - Sistemas Distribuidos
