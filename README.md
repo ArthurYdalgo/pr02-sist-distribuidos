@@ -23,3 +23,5 @@ $ python3 crud_servidor.py
 ```
 $ python3 crud_cliente.py
 ```
+
+Após esses passos, basta seguir as instruções do menu
