@@ -11,6 +11,7 @@ def main():
     print("Publicado")
 
     ns = Pyro4.locateNS()
+
     ns.register("crudYdalgo", uri)
 
     print("Objeto registrado")
